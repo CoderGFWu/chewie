@@ -17,9 +17,10 @@ dependencies:
       url: "https://gitcode.com/openharmony-tpc/flutter_packages.git"
       path: "packages/video_player/video_player"
       ref: "br_video_player-v2.9.2_ohos"
-  fluttertpc_wakelock_plus:
+  wakelock_plus:
     git:
       url: "https://gitcode.com/muxi_jinnian/fluttertpc_wakelock_plus.git"
+      path: "fluttertpc_wakelock_plus/wakelock_plus"
       ref: "br_wakelock_plus_1.2.8_ohos"
 
 dev_dependencies:
